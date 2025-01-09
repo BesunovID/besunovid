@@ -20,3 +20,5 @@ Frontend Developer
 Site based on Next.js - https://github.com/BesunovID/Stroidveri33
 
 Frontend part of a warehouse management application - https://github.com/BesunovID/AlterStorage
+
+Authentication page - https://github.com/BesunovID/Auth-page
